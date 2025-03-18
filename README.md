@@ -189,7 +189,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## 📩 Contact
 For any questions or feedback, feel free to reach out:
 - **👤 Name:** Ashish Raj
-- **✉️ Email:** ashishdubey7224@gmail.com
+- **✉️ Email:** honeyashish72@gmail.com
 - **🐙 GitHub:** https://github.com/ADubey7
 
 Thank you for checking out the Online Banking System! 🚀
